@@ -1,0 +1,87 @@
+.menu
+{
+        display: flex;
+        margin: 50px;
+        
+}
+
+
+
+
+
+
+
+
+
+
+
+.header_c{
+    background-image: url("./img/b.jpg");
+    display: flex;
+}
+
+.contc_me_h{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.container {
+   margin-left: 100px;
+   padding-top: 50px;
+}
+
+
+
+input[type=text], select, textarea  {
+    margin-left: 250px;   
+    width: 60%; /* Full width */
+    padding: 12px; /* Some padding */ 
+    border: 1px solid #ccc;/* Gray border*/
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+    
+  }
+
+.submit{
+    /* display: grid; */
+    /* text-align: center; */
+    padding-top: 20px;
+    margin-left: 650px;
+    padding-bottom: 50px;
+    /* background-color: blue; */
+
+    
+}
+
+.add{
+    display: flex;
+    height: 300px;
+    width: cover;
+    margin-left: 100px;
+    padding-top: 50px;
+    font-size: large; 
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(3, 18, 15));  
+    
+}
+.add_1{
+    width: 120px;
+}
+
+iframe{
+    margin-left: 100px;
+    border-radius: 25px;
+}
+
+.con_sec2{
+    text-align: center;
+    height: 100px;
+    width: cover;
+    /* margin-left: 100px; */
+    padding-top: 50px;
+    font-size: 20px; 
+    background-image: linear-gradient(to right, rgba(28, 230, 166, 0.547), rgba(25, 39, 76, 0.925), rgb(71, 30, 89));  
+    
+}

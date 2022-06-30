@@ -1,0 +1,181 @@
+.about_info{
+  display: flex;
+  padding-bottom: 20px;
+  padding-top: 50px;
+}
+
+.info_img{
+  height: 300px;
+  width: 650px;
+  margin-left: 50px;
+  
+  
+}
+ 
+.info_para{
+  /* display: flex; */
+  height: 250px;
+  width: cover;
+  margin: 0px 0px 0px 10px;
+  padding-top: 50px;
+  background-color: #ccc;
+  text-align: center;
+}
+
+
+.award{
+  display: flex;
+  padding-top: 50px;
+  height: 100px;
+  padding-bottom: 120px;
+  font-size: 10px;
+  text-align: center;  
+      
+}
+
+.awrd1{
+  height: 200px;
+  width: 35%;
+  background-color: lightgray;
+  font-size: medium;
+  padding-top: 50px;
+}
+
+.awrd2{
+  height: 200px;
+  width: 35%;
+  background-color: lightgray;
+  font-size: medium;
+  padding-top: 50px;
+}
+.awrd3{
+  height: 200px;
+  width: 35%;
+  background-color: lightgray;
+  font-size: medium;
+  padding-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.about_tech{
+    text-align: center;
+    padding-top: 50px;
+}
+
+#container{
+    background-color: brown;
+    margin: 0px 0px 0px 0px;
+    /* padding: 20px 0px 0px 0px; */
+    height: 400px;
+    
+}
+
+  #progressHtml {
+    overflow: hidden;
+    height: 20px;
+    /* width: 900px; */
+    background: #ccc;
+    border-radius: 5px;
+    margin-bottom: 0.6rem; 
+  }
+   
+  #progressCss {
+    /* overflow: hidden; */
+    height: 20px;
+    background: #ccc;
+    border-radius: 5px;
+    margin-bottom: 0.6rem;
+  }
+
+  #progressBootstrap {
+    /* overflow: hidden; */
+    height: 20px;
+    background: #ccc;
+    border-radius: 5px;
+    margin-bottom: 0.6rem;
+  }
+  #progressSass{
+    /* overflow: hidden; */
+    height: 20px;
+    
+    background: #ccc;
+    border-radius: 5px;
+    margin-bottom: 0.6rem;
+  }
+
+  #progressJavaScript {
+    /* overflow: hidden; */
+    height: 20px;
+    
+    background: #ccc;
+    border-radius: 5px;
+    margin-bottom: 0.6rem;
+  }
+  #progressReactJS {
+    /* overflow: hidden; */
+    height: 20px;
+    /* width: 900px; */
+    background: #ccc;
+    border-radius: 5px;
+    margin-bottom: 0.6rem;
+  }
+
+  #progressDoneHtml{
+    height: 100%;
+    width: 0;
+    background-color: gold;
+    transition: 3s ease 0.3s;
+  }
+
+  #progressDoneCss{
+    height: 100%;
+    width: 0;
+    background-color: gold;
+    transition: 3s ease 0.3s;
+  }
+
+  #progressDoneBootstrap{
+    height: 100%;
+    width: 0;
+    background-color: gold;
+    transition: 3s ease 0.3s;
+  }
+
+  #progressDoneJavaScript{
+    height: 100%;
+    width: 0;
+    background-color: gold;
+    transition: 3s ease 0.3s;
+  }
+
+  #progressDoneSass{
+    height: 100%;
+    width: 0;
+    background-color: gold;
+    transition: 3s ease 0.3s;
+  }
+
+  #progressDoneReactJS{
+    height: 100%;
+    width: 0;
+    background-color: gold;
+    transition: 3s ease 0.3s;
+  }
+  
+
+
+
+   
+   
+   
+   
